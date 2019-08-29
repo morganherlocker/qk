@@ -1,0 +1,8 @@
+[package]
+name = "qk"
+version = "0.1.0"
+authors = ["morganherlocker <morgan.herlocker@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+geo-types = "0.4.3"
